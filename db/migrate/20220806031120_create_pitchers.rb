@@ -1,24 +1,24 @@
 class CreatePitchers < ActiveRecord::Migration[6.0]
   def change
     create_table :pitchers do |t|
-      t.int :yearID
-      t.int :G
-      t.int :GS
-      t.int :W
-      t.int :L
-      t.int :SV
-      t.int :CG
+      t.integer :yearID
+      t.integer :G
+      t.integer :GS
+      t.integer :W
+      t.integer :L
+      t.integer :SV
+      t.integer :CG
       t.float :IP
-      t.int :BF
-      t.int :H
-      t.int :R
-      t.int :ER
-      t.int :BB
-      t.int :K
-      t.int :HBP
-      t.int :2B
-      t.int :3B
-      t.int :HR
+      t.integer :BF
+      t.integer :H
+      t.integer :R
+      t.integer :ER
+      t.integer :BB
+      t.integer :K
+      t.integer :HBP
+      t.integer :"2B"
+      t.integer :"3B"
+      t.integer :HR
       t.float :RA
       t.belongs_to :player, null: false, foreign_key: true
 
