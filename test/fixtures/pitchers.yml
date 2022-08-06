@@ -1,0 +1,45 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  yearID: 
+  G: 
+  GS: 
+  W: 
+  L: 
+  SV: 
+  CG: 
+  IP: 1.5
+  BF: 
+  H: 
+  R: 
+  ER: 
+  BB: 
+  K: 
+  HBP: 
+  2B: 
+  3B: 
+  HR: 
+  RA: 1.5
+  player: one
+
+two:
+  yearID: 
+  G: 
+  GS: 
+  W: 
+  L: 
+  SV: 
+  CG: 
+  IP: 1.5
+  BF: 
+  H: 
+  R: 
+  ER: 
+  BB: 
+  K: 
+  HBP: 
+  2B: 
+  3B: 
+  HR: 
+  RA: 1.5
+  player: two

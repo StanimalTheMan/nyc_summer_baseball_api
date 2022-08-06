@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  yearID: 
+  PA: 
+  AB: 
+  R: 
+  H: 
+  2B: 
+  3B: 
+  HR: 
+  RBI: 
+  SB: 
+  CS: 
+  BB: 
+  SO: 
+  player: one
+
+two:
+  yearID: 
+  PA: 
+  AB: 
+  R: 
+  H: 
+  2B: 
+  3B: 
+  HR: 
+  RBI: 
+  SB: 
+  CS: 
+  BB: 
+  SO: 
+  player: two
